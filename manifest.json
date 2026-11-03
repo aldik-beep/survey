@@ -1,0 +1,15 @@
+{
+  "name": "Препятствия — полевой сбор",
+  "short_name": "Полевой сбор",
+  "start_url": "./1995.html",
+  "display": "standalone",
+  "background_color": "#f2f4f7",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
